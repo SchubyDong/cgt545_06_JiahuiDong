@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/NewMaterial.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/Target.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/M_Target.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/BP_Target.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/Target_Status.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/BP_Target_Spawner.uasset"
+			]
+		}
+	]
+}
