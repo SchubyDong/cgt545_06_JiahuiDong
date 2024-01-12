@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/M_Target.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/BP_Target.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/Target_Status.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/BP_Target_Spawner.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0X/1RW5ZNLR8HG72OM9XBI2RS.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/M_Target_Inst.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Weapons/BPI_Damage.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Libraries/BPFL_Traces.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Libraries/BPML_Comparasions.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ET/1Y4WNUBJFGICT6DICTHS5S.uasset",
 				"D:/Jiahui's stuff/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"D:/Jiahui's stuff/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RI/MGVXLYW37BVIYW4YQ7MG0T.uasset",
 				"D:/Jiahui's stuff/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
@@ -53,21 +67,14 @@
 				"D:/Jiahui's stuff/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
 				"D:/Jiahui's stuff/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
 				"D:/Jiahui's stuff/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0X/1RW5ZNLR8HG72OM9XBI2RS.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/NewMaterial.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/Target.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/M_Target.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/BP_Target.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/Target_Status.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Blueprint/Target/BP_Target_Spawner.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H7/R4XBVLJ875ZS6AEM32Y1RQ.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/62/C2A9C6UQ9QCPQCVRSOZGP1.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H3/6QMAMIZ4OU8CJDCNXC09TC.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RI/MGVXLYW37BVIYW4YQ7MG0T.uasset",
 				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BN/KP6FDHNCHR9Y8AO4MLCYGH.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JH/PL687VM26F92RCMJQRDSFS.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0X/1RW5ZNLR8HG72OM9XBI2RS.uasset",
-				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/Materials/M_Target_Inst.uasset"
+				"C:/temp/cgt545_06_JiahuiDong/ShootAimer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JH/PL687VM26F92RCMJQRDSFS.uasset"
 			]
 		}
 	]
